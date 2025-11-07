@@ -1,0 +1,16 @@
+.navbar {
+  background-color: blue;
+  overflow: hidden;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  padding: 14px 20px;
+  color: white;
+}

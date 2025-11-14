@@ -1,5 +1,6 @@
 import { useState } from "react"
 import InputToDo from "./Component/InputToDo"
+import './App.css';
 function App() {
   const [todoList, setTodoList] = useState([]);
   const inputHandler = (inputVal) => {

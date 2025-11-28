@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "dom": "^0.0.3",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
     "react": "^19.2.0",
     "router": "^2.2.0"
   }
